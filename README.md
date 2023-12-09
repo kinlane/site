@@ -1,0 +1,2 @@
+# site
+A site template
